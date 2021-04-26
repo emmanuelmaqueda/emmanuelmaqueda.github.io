@@ -1,10 +1,10 @@
 ---
 layout: publications
 permalink: /publications/
-title: My Publications
+title: Mis publicaciones, ponencias y destacables
 tags: [publications]
 modified: 8-7-2014
 comments: false
 ---
 
-You can also browse my <a href="http://scholar.google.es/citations?user=VCBBx24AAAAJ" target="_blank">Google Scholar profile</a>.
+También puedes consultar mi perfil de <a href="https://scholar.google.com.mx/citations?user=2kcO-_EAAAAJ&hl=es" target="_blank">Google Scholar</a>.
