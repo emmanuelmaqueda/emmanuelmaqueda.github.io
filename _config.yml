@@ -1,31 +1,25 @@
-title:            Principal
+title:            Home
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://emmanuelmaqueda.github.io
+url:              //emmanuelmaqueda.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
 disqus_shortname: emmanuelmaqueda
-
 # Owner/author information
 owner:
   name:           David Emmanuel Maqueda Bojorquez
-  avatar:         fotog.jpg
-  bio:            " 'Ciencia es creer en la ignorancia de los científicos...'  Richard Feynman "
-
-   
-  email:          dmaqueda71@gmail.com
+  avatar:         jordi.png
+  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
+  email:          jponttuset@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  facebook: demmanuel.maqueda
-  instagram : e_maqueda
-  twitter: emmanuelmaqueda
-  linkedin: emmanuel-maqueda
-  
-  google_scholar: 2kcO-_EAAAAJ&hl
-  #google_plus: 113718226018314522413
-  github: emmanuelmaqueda
+  twitter: jponttuset
+  linkedin: jponttuset
+  google_scholar: VCBBx24AAAAJ
+  google_plus: 113718226018314522413
+  github: jponttuset
 # Analytics and webmaster tools stuff goes here
-#google_analytics: UA-52736040-1
-#google_verify:
+google_analytics: UA-52736040-1
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
@@ -34,16 +28,15 @@ bing_verify:
 links:
   - title: Curriculum
     url: /cv/
-  - title: Ponencias y publicaciones 
+  - title: Publications
     url: /publications/
-  - title: Proyectos
+  - title: Code
     url: /code/
-  - title: Blog y recursos
+  - title: Blog
     url: /blog/
 
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Mexico_City
+timezone:    Europe/Zurich
 future:      true
 #pygments:    true
 highlighter: rouge
