@@ -16,4 +16,5 @@ Desde muy jóven surgío mi amor por el cómputo al estudiar temas sobre robóti
 He colaborado con el <a href="https://virtual.cuautitlan.unam.mx/intar/" target="_blank">Grupo de Investigación de Sistemas Inteligentes</a> de la Facultad de Estudios Superiores Cuautitlán y soy miembro activo del <a href="http://golem.iimas.unam.mx/home.php?lang=es&sec=home" target="_blank">Grupo Golem</a> y del grupo de investigación <a href="https://l52mas.gitlab.io/" target="_blank">L52+</a> ambos pertenecientes al <a href="http://golem.iimas.unam.mx/home.php?lang=es&sec=home" target="_blank">Departamento de Ciencias de la Computación</a> del <a href="https://www.iimas.unam.mx/" target="_blank">Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas</a> (IIMAS), de la Universidad Nacional Autónoma de México.
 
 <br />
-Fuera de lo académico me gusta la música electrónica, jugar videojuegos, suelo dibujar, jugar soccer y prácticar boxeo .Soy un constante aprendiz que sueña con ser investigador. <br />
+Fuera de lo académico me gusta jugar videojuegos, práctico boxeo y sueño con ser investigador.
+
