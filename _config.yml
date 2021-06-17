@@ -1,19 +1,18 @@
 title:            Principal
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://emmanuelmaqueda.github.io
+url:              //emmanuelmaqueda.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
 disqus_shortname: emmanuelmaqueda
-
 # Owner/author information
 owner:
   name:           David Emmanuel Maqueda Bojorquez
-  avatar:         fotog.jpg
-  bio:            " 'Ciencia es creer en la ignorancia de los científicos...'  Richard Feynman "
-
-   
+  avatar:         foto.png
+  bio:            " 'Demasiado juego para ser una ciencia y demasiada ciencia para ser un juego.' \n - Leibniz "
   email:          dmaqueda71@gmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  t email:          dmaqueda71@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   facebook: demmanuel.maqueda
   instagram : e_maqueda
@@ -24,8 +23,7 @@ owner:
   #google_plus: 113718226018314522413
   github: emmanuelmaqueda
 # Analytics and webmaster tools stuff goes here
-#google_analytics: UA-52736040-1
-#google_verify:
+
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
@@ -40,8 +38,6 @@ links:
     url: /code/
   - title: Blog y recursos
     url: /blog/
-
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Mexico_City
 future:      true
