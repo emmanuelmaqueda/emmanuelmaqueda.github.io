@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: Amante de la IA y entusiasta del cómputo
+title: Desarrollador de Software
 description: "Emmanuel Maqueda - Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
