@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: Desarrollador de Software
+title: 
 description: "Emmanuel Maqueda - Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
