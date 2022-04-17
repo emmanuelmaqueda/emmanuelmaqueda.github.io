@@ -7,6 +7,8 @@ image:
   feature: trees.jpg
 ---
 
+<p align="justify">
+
 Soy desarrollador de software egresado de la <a href="https://www.cuautitlan.unam.mx/licenciaturas/tecnologia/" target="_blank">Licenciatura en Tecnología</a>, estudié en la <a href="https://www.cuautitlan.unam.mx/#gsc.tab=0" target="_blank">Facultad de Estudios Superiores Cuautitlán</a> de la Universidad Nacional Autónoma de México
 
 <br />
