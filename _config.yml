@@ -29,6 +29,9 @@ bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 links:
   - title: Curriculum
     url: /cv/
