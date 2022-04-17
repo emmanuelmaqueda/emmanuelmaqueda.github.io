@@ -1,4 +1,6 @@
-title:            Principal
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+title:            Emmanuel Maqueda
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //emmanuelmaqueda.github.io
@@ -29,8 +31,6 @@ bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 links:
   - title: Curriculum
